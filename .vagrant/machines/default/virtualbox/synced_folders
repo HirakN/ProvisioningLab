@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/copy":{"guestpath":"/home/ubuntu/copy","hostpath":"/Users/tech-a43/Desktop/provisioning/copy","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a43/Desktop/provisioning","disabled":false,"__vagrantfile":true}}}
